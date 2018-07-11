@@ -5,7 +5,7 @@
 To quickly run locally:
 
 ```
-mvn -jetty.port=8180 clean jetty:run
+mvn -Djetty.port=8180 clean jetty:run
 ```
 
 Open browser: [http://localhost:8180/entando-pam-sample]
